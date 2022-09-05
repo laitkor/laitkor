@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **Web Development, Mobile App Development, Web Design, UI/UX, Software Testing, DevOps, CMS Development**
 
-- 📫 How to reach me **sanjay.pal@laitkor.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
