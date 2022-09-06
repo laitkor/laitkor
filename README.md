@@ -1,5 +1,8 @@
-<h1>Hi 👋,Welcome in Laitkor consultancy services</h1>
-<h3>A passionate team for complete software development lifecycle</h3>
+<h1>
+Hi 👋,Welcome in Laitkor consultancy services
+<span>A passionate team for complete software development lifecycle</span>
+</h1>
+<h3></h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" align="right" "height="400" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laitkor&label=Profile%20views&color=0e75b6&style=flat" alt="laitkor" /> </p>
 
@@ -34,3 +37,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laitkor&show_icons=true&locale=en" alt="laitkor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laitkor&" alt="laitkor" /></p>
+
+<style>
+h1 span {
+    font-size: 14px;
+}
+</style>
