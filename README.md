@@ -38,8 +38,3 @@ Hi 👋,Welcome in Laitkor consultancy services
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laitkor&" alt="laitkor" /></p>
 
-<style>
-h1 span {
-    font-size: 14px;
-}
-</style>
